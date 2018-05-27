@@ -1,0 +1,8 @@
+[2018-05-27 15:38:55] [INFO ] Log4jMessage:10 - Info Message!
+[2018-05-27 15:38:55] [WARN ] Log4jMessage:11 - Warn Message!
+[2018-05-27 15:38:55] [ERROR] Log4jMessage:12 - Error Message!
+[2018-05-27 15:38:55] [FATAL] Log4jMessage:13 - Fatal Message!
+[2018-05-27 15:39:30] [INFO ] Log4jMessage:10 - Info Message!
+[2018-05-27 15:39:30] [WARN ] Log4jMessage:11 - Warn Message!
+[2018-05-27 15:39:30] [ERROR] Log4jMessage:12 - Error Message!
+[2018-05-27 15:39:30] [FATAL] Log4jMessage:13 - Fatal Message!
